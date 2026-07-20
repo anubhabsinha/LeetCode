@@ -12,4 +12,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/anubhabsinha/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anubhabsinha/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/anubhabsinha/LeetCode/tree/master/1683-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/anubhabsinha/LeetCode/tree/master/1260-shift-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/anubhabsinha/LeetCode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/anubhabsinha/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
