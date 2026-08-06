@@ -1,0 +1,19 @@
+class Solution {
+    public int smallestNumber(int n, int t) {
+        while(pro(n) % t!=0){
+            n++;
+        }
+        return n;
+    }
+
+    private int pro(int num){
+        int pro = 1;
+
+        while(num!=0){
+            pro *= num%10;
+            num/=10;
+        }
+
+        return pro;
+    }
+}
