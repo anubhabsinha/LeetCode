@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/anubhabsinha/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/anubhabsinha/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/anubhabsinha/LeetCode/tree/master/1563-stone-game-v) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/anubhabsinha/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/anubhabsinha/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anubhabsinha/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anubhabsinha/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
